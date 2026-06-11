@@ -6,6 +6,12 @@
 
 ---
 
+## Status note
+
+This repository holds the specification and is **not actively maintained** by its author. If you want to build on this, **please fork it** — that is the intended path. Open issues and discussions are welcome for community conversation, but pull requests may not be reviewed promptly.
+
+---
+
 ## What is this?
 
 Vaanilai Station is an open-source project to build affordable, repairable weather stations that give smallholder farmers **decision-ready information** — not raw data — at a cost an order of magnitude below commercial agricultural weather stations.
