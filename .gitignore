@@ -1,0 +1,38 @@
+# Build outputs
+build/
+dist/
+*.bin
+*.elf
+*.map
+*.hex
+
+# ESP-IDF / PlatformIO
+.pio/
+.pioenvs/
+managed_components/
+sdkconfig.old
+dependencies.lock
+
+# KiCad
+*.bak
+*-backups/
+fp-info-cache
+_autosave-*
+
+# FreeCAD
+*.FCBak
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/settings.json
+.idea/
+*.swp
